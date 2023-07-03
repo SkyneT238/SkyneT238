@@ -1,4 +1,4 @@
-### Hi there 👋
+### HI, I'm HOANG 👋
 
 <!--
 **SkyneT238/SkyneT238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
